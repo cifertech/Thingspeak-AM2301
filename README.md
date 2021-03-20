@@ -1,0 +1,2 @@
+# Thingspeak-AM2301
+I decided to go one step further and build a multifunctional IoT thermometer with the ability to display temperature and humidity values on the Oled ssd1306 display as well as send data to the thingspeak dashboard. In fact, at the same time as the data is analyzed and the humidity and temperature values are displayed on the OLED display, then these values are sent to the thingspeak cloud servers and the values will be displayed numerically and graphs in relation to time and values.
